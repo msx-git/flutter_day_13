@@ -5,6 +5,12 @@ class Task2 extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Products'),
+        centerTitle: true,
+      ),
+      body: ListView(),
+    );
   }
 }
