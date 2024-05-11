@@ -40,10 +40,10 @@ List<Movie> movies = [
         "Over a decade after the events of the first film, Jake Sully and Neytiri live peacefully with their growing family. When a familiar threat resurfaces, they're forced to seek refuge with the Metkayina clan, a water-dwelling Na'vi tribe. As a new war unfolds, Jake must fight to protect his family and their newfound home.",
     country: "United States",
     cast: [
-      "Sam Worthington" // Jake Sully
-          "Zoe Saldana" // Neytiri
-          "Sigourney Weaver" // (returning in a new role)
-          "Kate Winslet" // New Cast Member
+      "Sam Worthington", // Jake Sully
+      "Zoe Saldana", // Neytiri
+      "Sigourney Weaver", // (returning in a new role)
+      "Kate Winslet", // New Cast Member
     ],
     releaseYear: 2022,
     rating: Random().nextDouble() * 1.0 + 8.0,
@@ -77,12 +77,12 @@ List<Movie> movies = [
         "Andy Dufresne, a successful banker, is wrongly convicted of murdering his wife and her lover. Sentenced to life in Shawshank prison, he befriends a fellow inmate, Ellis 'Red' Redding, and adapts to the harsh realities of prison life while plotting a daring escape.",
     country: "United States",
     cast: [
-      "Tim Robbins" // Andy Dufresne
-          "Morgan Freeman" // Ellis Boyd "Red" Redding
-          "Bob Gunton" // Warden Samuel Norton
-          "William Sadler" // Heywood
-          "Clancy Brown" // Captain Byron Hadley
-          "James Whitmore" // Brooks Hatlen
+      "Tim Robbins", // Andy Dufresne
+      "Morgan Freeman", // Ellis Boyd "Red" Redding
+      "Bob Gunton", // Warden Samuel Norton
+      "William Sadler", // Heywood
+      "Clancy Brown", // Captain Byron Hadley
+      "James Whitmore", // Brooks Hatlen
     ],
     releaseYear: 1994,
     rating: Random().nextDouble() * 1.0 + 7.5,
@@ -141,13 +141,13 @@ List<Movie> movies = [
         "Don Vito Corleone, the head of the Corleone mafia family in New York, refuses to become involved in the drug trade. When a rival family attacks his interests, he reluctantly draws his family deeper into the criminal underworld.",
     country: "United States",
     cast: [
-      "Marlon Brando" // Don Vito Corleone
-          "Al Pacino" // Michael Corleone
-          "James Caan" // Sonny Corleone
-          "Richard Castellano" // Clemenza
-          "Robert Duvall" // Tom Hagen
-          "Sterling Hayden" // Captain McClusky
-          "John Marley" // Jack Woltz
+      "Marlon Brando", // Don Vito Corleone
+          "Al Pacino", // Michael Corleone
+          "James Caan", // Sonny Corleone
+          "Richard Castellano", // Clemenza
+          "Robert Duvall", // Tom Hagen
+          "Sterling Hayden", // Captain McClusky
+          "John Marley" ,// Jack Woltz
     ],
     releaseYear: 1972,
     rating: Random().nextDouble() * 1.0 + 7.5,
@@ -212,13 +212,13 @@ List<Movie> movies = [
         "When the sadistic criminal mastermind known as The Joker emerges in Gotham, Batman must face his greatest physical and psychological challenge to save the city from chaos.",
     country: "United States",
     cast: [
-      "Christian Bale" // Bruce Wayne / Batman
-          "Heath Ledger" // The Joker
-          "Aaron Eckhart" // Harvey Dent
-          "Gary Oldman" // James Gordon
-          "Maggie Gyllenhaal" // Rachel Dawes
-          "Michael Caine" // Alfred Pennyworth
-          "Morgan Freeman" // Lucius Fox
+      "Christian Bale" ,// Bruce Wayne / Batman
+          "Heath Ledger", // The Joker
+          "Aaron Eckhart", // Harvey Dent
+          "Gary Oldman", // James Gordon
+          "Maggie Gyllenhaal", // Rachel Dawes
+          "Michael Caine", // Alfred Pennyworth
+          "Morgan Freeman" ,// Lucius Fox
     ],
     releaseYear: 2008,
     rating: Random().nextDouble() * 1.0 + 7.5,
@@ -274,9 +274,9 @@ List<Movie> movies = [
         "Oskar Schindler, a German businessman, saves the lives of more than a thoUnited Statesnd Jews by employing them in his factories during World War II. This powerful film depicts the horrors of the Holocaust and the strength of Schindler's compassion.",
     country: "United States",
     cast: [
-      "Liam Neeson" // Oskar Schindler
-          "Ralph Fiennes" // Amon Göth
-          "Ben Kingsley" // Itzhak Stern
+      "Liam Neeson" ,// Oskar Schindler
+          "Ralph Fiennes", // Amon Göth
+          "Ben Kingsley", // Itzhak Stern
     ],
     releaseYear: 1993,
     rating: Random().nextDouble() * 1.0 + 8.0,
@@ -328,15 +328,15 @@ List<Movie> movies = [
     country: "New Zealand",
     // Filmed in New Zealand
     cast: [
-      "Elijah Wood" // Frodo Baggins
-          "Ian McKellen" // Gandalf the Grey
-          "Sean Astin" // Samwise Gamgee
-          "Orlando Bloom" // Legolas
-          "Viggo Mortensen" // Aragorn
-          "Cate Blanchett" // Galadriel
-          "Liv Tyler" // Arwen
-          "Ian Holm" // Bilbo Baggins
-          "Sean Bean" // Boromir
+      "Elijah Wood", // Frodo Baggins
+          "Ian McKellen", // Gandalf the Grey
+          "Sean Astin", // Samwise Gamgee
+          "Orlando Bloom", // Legolas
+          "Viggo Mortensen", // Aragorn
+          "Cate Blanchett", // Galadriel
+          "Liv Tyler", // Arwen
+          "Ian Holm", // Bilbo Baggins
+          "Sean Bean" ,// Boromir
     ],
     releaseYear: 2001,
     rating: Random().nextDouble() * 1.0 + 7.7,
@@ -692,13 +692,13 @@ List<Movie> movies = [
         "Simba, a young lion prince, is destined to be king. But his scheming uncle, Scar, has other plans. Simba must find his courage and take back his rightful place.",
     country: "United States",
     cast: [
-      "Matthew Broderick" // Voice of Simba (adult)
-          "Jonathan Taylor Thomas" // Voice of Simba (young)
-          "James Earl Jones" // Voice of Mufasa
-          "Jeremy Irons" // Voice of Scar
-          "Whoopi Goldberg" // Voice of Nala
-          "Cheech Marin" // Voice of Timon
-          "Rowan Atkinson" // Voice of Zazu
+      "Matthew Broderick" ,// Voice of Simba (adult)
+          "Jonathan Taylor Thomas", // Voice of Simba (young)
+          "James Earl Jones" ,// Voice of Mufasa
+          "Jeremy Irons" ,// Voice of Scar
+          "Whoopi Goldberg", // Voice of Nala
+          "Cheech Marin", // Voice of Timon
+          "Rowan Atkinson", // Voice of Zazu
     ],
     releaseYear: 1994,
     rating: Random().nextDouble() * 1.0 + 4.0,
@@ -885,11 +885,11 @@ List<Movie> movies = [
         "A trilogy of comedic adventures featuring Shurik, a nerdy but resourceful student, as he encounters bumbling criminals, struggles with exams, and navigates the complexities of life.",
     country: "Soviet Union",
     cast: [
-      "Aleksandr Demyanenko" // Shurik
-          "Yuri Nikulin" // Coward (in "Operation Y")
-          "Georgy Vitsin" // Fool (in "Operation Y")
-          "Evgeny Morgunov" // Pro (in "Operation Y")
-          "Natalya Seleznyova" // Lida (in "Déjà vu")
+      "Aleksandr Demyanenko", // Shurik
+          "Yuri Nikulin" ,// Coward (in "Operation Y")
+          "Georgy Vitsin" ,// Fool (in "Operation Y")
+          "Evgeny Morgunov", // Pro (in "Operation Y")
+          "Natalya Seleznyova", // Lida (in "Déjà vu")
     ],
     releaseYear: 1965,
     rating: Random().nextDouble() * 1.0 + 7.8,
@@ -963,10 +963,10 @@ List<Movie> movies = [
         "In a distant future where Earth is overrun with trash, a lonely robot named WALL·E encounters a sleek probe named EVE and embarks on a journey that could decide the fate of humanity.",
     country: "United States",
     cast: [
-      "Ben Burtt" // Voice of WALL·E
-          "Elissa Knight" // Voice of EVE
-          "Jeff Garlin" // Voice of Captain McCrea
-          "Sigourney Weaver" // Voice of Ship's Computer
+      "Ben Burtt" ,// Voice of WALL·E
+          "Elissa Knight", // Voice of EVE
+          "Jeff Garlin", // Voice of Captain McCrea
+          "Sigourney Weaver" ,// Voice of Ship's Computer
     ],
     releaseYear: 2008,
     rating: Random().nextDouble() * 1.0 + 7.0,
