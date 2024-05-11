@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-import '../../../models/movie.dart';
+import '../models/movie.dart';
 import 'movie_item.dart';
 
 class Tab2 extends StatelessWidget {

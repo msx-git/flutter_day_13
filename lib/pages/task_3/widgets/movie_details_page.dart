@@ -7,7 +7,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
 import '/generated/assets.dart';
-import '/models/movie.dart';
+import '../models/movie.dart';
 import '/pages/task_3/widgets/bottom_section.dart';
 import '/utils/extensions.dart';
 

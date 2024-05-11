@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_day_13/pages/task_3/widgets/movie_item.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-import '../../../models/movie.dart';
+import '../models/movie.dart';
 
 class MovieList extends StatelessWidget {
   const MovieList({super.key});

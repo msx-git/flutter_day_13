@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
-import '../../../models/movie.dart';
+import '../models/movie.dart';
 import '/pages/task_3/widgets/tab_1.dart';
 import '/pages/task_3/widgets/tab_2.dart';
 import '/pages/task_3/widgets/tab_3.dart';

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_day_13/pages/task_3/widgets/movie_details_page.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
-import '../../../models/movie.dart';
+import '../models/movie.dart';
 
 class MovieItem extends StatelessWidget {
   const MovieItem({super.key, required this.movie});
